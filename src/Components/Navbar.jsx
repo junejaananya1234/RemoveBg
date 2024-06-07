@@ -1,4 +1,4 @@
-import BGRemoverIcon from '../../assets/BGremover.png'
+import BGRemoverIcon from '../assets/BGremover.png'
 const Navbar = () => {
     return (
         <>
